@@ -1,0 +1,1 @@
+- https://www.coursera.org/projects/googlecloud-autoscaling-tensorflow-model-deployments-with-tf-serving-and-vj8t1
